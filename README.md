@@ -1,2 +1,2 @@
 # eumap
-Create NWP and AR for EUMAP/DCF
+Create NWP for EUMAP/DCF
